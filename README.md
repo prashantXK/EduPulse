@@ -1,2 +1,2 @@
-##
-https://prashantxk.github.io/EduPulse/
+
+# https://prashantxk.github.io/EduPulse/
